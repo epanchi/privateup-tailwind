@@ -1,3 +1,5 @@
-/* components.css */
-@import "buttons.css";
-@import "card.css";
+/* components/card.css */
+.card {
+    padding: theme('spacing.4');
+    /* ... */
+  }
